@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cac980c4-fa86-42fa-9333-222f0818a953" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlZXYW0UhhGjlrLdkLBV1YLSbg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/sajadakbar/Documents/develop/SeleniumJuly2019/AutoFramWorkBank/Facebook/src/test/resources/FacebookRunner.xml">
+    <configuration name="HomeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.HomeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.testUserCanLogInSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.HomeTest" />
+      <option name="METHOD_NAME" value="testUserCanLogInSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sajadakbar/Documents/develop/SeleniumJuly2019/AutoFramWorkBank/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/sajadakbar/Documents/develop/SeleniumJuly2019/AutoFramWorkBank/Facebook/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="TestNG.HomeTest" />
+        <item itemvalue="TestNG.HomeTest.testUserCanLogInSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cac980c4-fa86-42fa-9333-222f0818a953" name="Default Changelist" comment="" />
+      <created>1579726181308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579726181308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1483" height="213" key="GridCell.Tab.0.bottom" timestamp="1579736340481">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state width="1483" height="213" key="GridCell.Tab.0.bottom/0.23.2048.1177@0.23.2048.1177" timestamp="1579736340481" />
+    <state width="1483" height="213" key="GridCell.Tab.0.center" timestamp="1579736340480">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state width="1483" height="213" key="GridCell.Tab.0.center/0.23.2048.1177@0.23.2048.1177" timestamp="1579736340480" />
+    <state width="1483" height="213" key="GridCell.Tab.0.left" timestamp="1579736340480">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state width="1483" height="213" key="GridCell.Tab.0.left/0.23.2048.1177@0.23.2048.1177" timestamp="1579736340480" />
+    <state width="1483" height="213" key="GridCell.Tab.0.right" timestamp="1579736340481">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state width="1483" height="213" key="GridCell.Tab.0.right/0.23.2048.1177@0.23.2048.1177" timestamp="1579736340481" />
+    <state x="278" y="130" key="SettingsEditor" timestamp="1579731307503">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state x="278" y="130" key="SettingsEditor/0.23.2048.1177@0.23.2048.1177" timestamp="1579731307503" />
+    <state x="153" y="189" key="new project wizard" timestamp="1579732879723">
+      <screen x="0" y="23" width="2048" height="1177" />
+    </state>
+    <state x="153" y="189" key="new project wizard/0.23.2048.1177@0.23.2048.1177" timestamp="1579732879723" />
+  </component>
+</project>
